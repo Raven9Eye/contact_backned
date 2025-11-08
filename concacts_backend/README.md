@@ -17,17 +17,17 @@
 
 ```
 |- src/
-|  |- server.js          # 服务器入口
+|  |- server.js          
 |  |- routes/
-|  |  |- contactRoutes.js # 联系人路由
+|  |  |- contactRoutes.js 
 |  |- controllers/
-|  |  |- contactController.js # 联系人控制器
+|  |  |- contactController.js 
 |  |- models/
-|  |  |- contact.js      # 联系人模型
+|  |  |- contact.js     
 |  |- utils/
-|  |  |- validation.js   # 验证工具
+|  |  |- validation.js   
 |  |- middleware/
-|  |  |- errorHandler.js # 错误处理中间件
+|  |  |- errorHandler.js 
 |- package.json
 |- README.md
 |- codestyle.md
