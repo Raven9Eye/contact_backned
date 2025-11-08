@@ -1,6 +1,6 @@
 # 通讯录后端项目
 
-本项目为 EE308 First assignment-- front-end and back-end separation contacts programming —— “联系人管理（Contacts）” 前端部分。
+本项目为 EE308 First assignment-- front-end and back-end separation contacts programming —— “联系人管理（Contacts）” 后端部分。
 
 姓名：ZhiKai Zhang
 学号：832301205/23126469
