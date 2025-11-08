@@ -1,6 +1,10 @@
 # 通讯录后端项目
 
-这是通讯录应用的后端部分，使用Node.js和Express框架实现。
+本项目为 EE308 First assignment-- front-end and back-end separation contacts programming —— “联系人管理（Contacts）” 前端部分。
+
+姓名：ZhiKai Zhang
+学号：832301205/23126469
+项目目标：实现一个联系人管理界面，包含联系人信息展示、添加、编辑和删除等功能。
 
 ## 功能特性
 
